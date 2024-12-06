@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\Projects\\BlackJackConsole\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4973EDE3-2149-4936-B6FC-91D4603A6B26}|BlackJackConsole.vcxproj|C:\\Users\\user\\Documents\\Projects\\BlackJackConsole\\BlackJackConsole.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4973EDE3-2149-4936-B6FC-91D4603A6B26}|BlackJackConsole.vcxproj|solutionrelative:BlackJackConsole.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BlackJackConsole.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Projects\\BlackJackConsole\\BlackJackConsole.cpp",
+              "RelativeDocumentMoniker": "BlackJackConsole.cpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\Projects\\BlackJackConsole\\BlackJackConsole.cpp",
+              "RelativeToolTip": "BlackJackConsole.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAI4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-06T08:06:41.358Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
